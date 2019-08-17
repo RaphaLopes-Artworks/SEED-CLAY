@@ -1,6 +1,8 @@
 ## PEÇA
-<br><br>
+<br>
 This site was built using [GitHub Pages](https://pages.github.com/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <br>
 
 - Nome: Semente e Barro 
