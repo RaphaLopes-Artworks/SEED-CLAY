@@ -1,4 +1,8 @@
 ## PEÇA
+<br><br>
+This site was built using [GitHub Pages](https://pages.github.com/)
+<br>
+
 - Nome: Semente e Barro 
 - Data de criação: Julho 2019 
 - Técnica utilizada: Pintura digital
