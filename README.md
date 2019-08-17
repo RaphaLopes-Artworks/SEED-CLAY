@@ -1,6 +1,3 @@
-# SEED - CLAY
-<br>
-
 ## PEÇA
 - Nome: Semente e Barro 
 - Data de criação: Julho 2019 
