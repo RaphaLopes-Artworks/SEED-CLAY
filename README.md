@@ -1,5 +1,5 @@
 # SEED - CLAY
-<br><br>
+<br>
 
 ## PEÇA
 - Nome: Semente e Barro 
