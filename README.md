@@ -1,6 +1,4 @@
 ## PEÇA
-<br>
-This site was built using [GitHub Pages](https://pages.github.com/)
 ![Arte](https://RaphaLopes-Artworks.github.com/images/arte_ambientada.jpeg)
 
 - Nome: Semente e Barro 
