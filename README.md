@@ -1,12 +1,14 @@
 ## PEÇA
-![Arte](arte_ambientada.jpeg)
+![Arte2](https://RaphaLopes-Artworks.github.com/images/arte_ambientada.jpeg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - Nome: Semente e Barro 
 - Data de criação: Julho 2019 
 - Técnica utilizada: Pintura digital
 - Dimensões: 80x110 (cada obra)
 - Tiragem: 20 peças 
-- https://RaphaLopes-Artworks.github.com/images/
+- 
 - A arte: Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
 
 ## AUTOR
