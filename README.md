@@ -1,5 +1,5 @@
 ## PEÇA
-![Arte2](https://RaphaLopes-Artworks.github.com/images/arte_ambientada.jpeg)
+![Arte2](/images/arte_ambientada.jpeg)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
