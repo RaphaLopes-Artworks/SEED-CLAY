@@ -1,9 +1,7 @@
 ## PEÇA
 <br>
 This site was built using [GitHub Pages](https://pages.github.com/)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-<br>
+![Arte](https://RaphaLopes-Artworks.github.com/images/arte_ambientada.jpeg)
 
 - Nome: Semente e Barro 
 - Data de criação: Julho 2019 
